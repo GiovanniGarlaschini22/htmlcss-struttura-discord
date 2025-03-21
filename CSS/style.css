@@ -1,8 +1,27 @@
-/*RESET*/
+/* reset */
 * {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
     }
-/*RESET*/
 
+img {
+    max-width: 100%;
+}
+/* reset */
+
+/* common */
+
+/* common */
+
+/* header */
+
+/* header end */
+
+/* main */
+
+/* main end */
+
+/* footer */
+
+/* footer end */

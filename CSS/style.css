@@ -89,13 +89,13 @@ body {
     max-width: 100%;
     height: 600px;
 }
-.pink-box {
+.pink-second-box {
     background-color: rgb(161, 71, 143);
     width: 500px;
     height: 500px;
     border-style: dashed;
 }
-.blue-box {
+.blue-second-box {
     background-color: rgb(15, 42, 215);
     width: 700px;
     height: 500px;
@@ -104,9 +104,31 @@ body {
 /* second section end */
 
 /* third section */
+.third-section-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(198, 198, 198);
+    max-width: 100%;
+    height: 600px;
+}
+.pink-third-box {
+    background-color: rgb(161, 71, 143);
+    width: 500px;
+    height: 500px;
+    border-style: dashed;
+}
+.blue-third-box {
+    background-color: rgb(15, 42, 215);
+    width: 700px;
+    height: 500px;
+    border-style: dashed;
+}
 /* third section end */
 
 /* fourth section */
+/* same as second section */
 /* fourth section end */
 
 /* fifth section */
